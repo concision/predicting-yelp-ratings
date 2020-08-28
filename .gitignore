@@ -1,5 +1,6 @@
 ### Project Specific ###
-
+# Yelp dataset
+data
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,python,jupyternotebooks,git,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,python,jupyternotebooks,git,windows,macos,linux
@@ -250,6 +251,8 @@ target/
 
 # pyenv
 .python-version
+# virtualenv
+python
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
