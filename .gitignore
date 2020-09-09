@@ -1,6 +1,7 @@
 ### Project Specific ###
 # Yelp dataset
-data
+data/
+temp/
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,python,jupyternotebooks,git,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,python,jupyternotebooks,git,windows,macos,linux
