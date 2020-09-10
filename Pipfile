@@ -13,6 +13,7 @@ sklearn = "*"
 jupyter = "*"
 matplotlib = "*"
 spectra = "*"
+geopy = "*"
 
 [requires]
 python_version = "3.8"
