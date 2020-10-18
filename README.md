@@ -12,11 +12,11 @@ The motivations for this project to uncover a suspected correlation using machin
 
 
 ## Viewing
-While GitHub supports rendering Jupyter Notebook projects, it does not support rendering them as default README page.
+While GitHub supports rendering Jupyter Notebook projects, it does not support rendering them as default README page. Furthermore, there are performance issues when rendering non-trivial notebooks. For best results, the notebook can be viewed using Jupyter's nbviewer.
 
 <h3 align="center">
-    <a href="https://github.com/concision/predicting-yelp-ratings/blob/master/notebook.ipynb">
-        Click here to view this project's findings
+    <a href="https://nbviewer.jupyter.org/github/concision/predicting-yelp-ratings/blob/master/notebook.ipynb">
+        Click here to view this project's notebook
     </a>
 </h3>
 
