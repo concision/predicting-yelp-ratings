@@ -6,7 +6,7 @@
 
 
 ## About
-In this Jupyter Notebook project, a suspected correlation is explored between the text content of a business' user reviews and the business' respective star rating. By applying natural language processing (NLP) to the text content of user reviews, a supervised learning machine learning model in [TensorFlow](https://www.tensorflow.org/) can be constructed to predict star ratings.
+In this Jupyter Notebook project, a suspected correlation is explored between the text content of a business' user reviews and the business' respective star rating. By applying natural language processing (NLP) to the text content of user reviews, a supervised machine learning model in [TensorFlow](https://www.tensorflow.org/) can be constructed to predict star ratings.
 
 The motivations for this project to uncover a suspected correlation using machine learning; ergo, the built model here is not necessarily optimal. If a business has enough reviews, there is a surprisingly accurate prediction and correlation between the text content of the user reviews and the star rating a business receives.
 
